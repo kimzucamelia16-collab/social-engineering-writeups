@@ -25,11 +25,14 @@ The objective of this exercise is to understand the structure of an email and id
 - Mismatch between sender and reply-to address
 - Unknown or suspicious sending IP address
 - Urgent or threatening language
-
+  
 ### Evidence
-- Screenshot of TryHackMe room
-- Screenshot of email header analysis
-- Screenshot showing task completion
+
+![Room Completed](./Screenshot%202026-01-04%20at%2011.54.43%20PM.png)
+![Email Header Analysis](./Screenshot%202026-01-04%20at%2011.54.54%20PM.png)
+![Correct Answers & Progress](./Screenshot%202026-01-04%20at%2011.55.05%20PM.png)
+
+
 
 ### Conclusion
 This exercise improved my understanding of how phishing emails are structured and how attackers manipulate email headers to deceive users. By analysing email headers and content, I learned how to identify key phishing indicators such as spoofed sender information and suspicious IP addresses.
