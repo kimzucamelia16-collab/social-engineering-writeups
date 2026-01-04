@@ -8,7 +8,8 @@
 
 ---
 
-## Exercise 1: Phishing Analysis Fundamentals (TryHackMe)
+## Exercise 1: ## Exercise 1: Phishing Emails in Action (TryHackMe)
+
 
 ### Objective
 The objective of this exercise is to understand the structure of an email and identify phishing indicators through email header and content analysis.
