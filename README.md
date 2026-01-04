@@ -8,7 +8,7 @@
 
 ---
 
-## Exercise 1: ## Exercise 1: Phishing Emails in Action (TryHackMe)
+ ## Exercise 1: Phishing Emails in Action (TryHackMe)
 
 
 ### Objective
