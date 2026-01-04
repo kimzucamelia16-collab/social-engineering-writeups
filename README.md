@@ -1,6 +1,6 @@
 # Social Engineering & Phishing Analysis Writeups
 
-**Student Name:** Ahmad  
+**Student Name:** Kim
 **Course:** Cybersecurity  
 **Topic:** Social Engineering  
 **Platform:** TryHackMe  
