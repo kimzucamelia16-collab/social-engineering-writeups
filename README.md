@@ -31,4 +31,5 @@ The objective of this exercise is to understand the structure of an email and id
 - Screenshot showing task completion
 
 ### Conclusion
-This e
+This exercise improved my understanding of how phishing emails are structured and how attackers manipulate email headers to deceive users. By analysing email headers and content, I learned how to identify key phishing indicators such as spoofed sender information and suspicious IP addresses.
+
