@@ -37,3 +37,25 @@ The objective of this exercise is to understand the structure of an email and id
 ### Conclusion
 This exercise improved my understanding of how phishing emails are structured and how attackers manipulate email headers to deceive users. By analysing email headers and content, I learned how to identify key phishing indicators such as spoofed sender information and suspicious IP addresses.
 
+
+
+
+---
+
+## Exercise 2: The Phishing Pond (TryHackMe)
+
+### Objective
+To understand common phishing techniques and learn how to identify phishing emails through a simulated environment.
+
+### Key Indicators Observed
+- Urgency and scare tactics
+- Look-alike sender domains
+- Display name impersonation
+- Malicious attachments and links
+
+### Evidence
+![Phishing Pond – Room Page](./Screenshot%202026-01-05%20at%2012.11.26%20AM.png)
+![Phishing Pond – Task Explanation](./Screenshot%202026-01-05%20at%2012.13.35%20AM.png)
+
+### Conclusion
+This exercise enhanced my understanding of phishing techniques and improved my ability to recognise phishing attempts based on message content and sender behaviour.
